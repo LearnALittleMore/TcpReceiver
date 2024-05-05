@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>tcp_receiver.ico</file>
+    </qresource>
+</RCC>
